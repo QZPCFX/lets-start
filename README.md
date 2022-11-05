@@ -8,7 +8,7 @@
 
 ## Github
 
-github地址：[https://github.com/QZPCFX/readme](https://github.com/QZPCFX/readme)
+github地址：[https://github.com/QZPCFX/lets-start.git](https://github.com/QZPCFX/lets-start.git)
 
 ## Timeline 
 
