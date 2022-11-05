@@ -4,13 +4,17 @@
 需要大家填写的地方为
 1.github的主页地址：参考示例
 2.表格部分直接复制即可
+3.写上语雀知识库的地址
 :::
 
 ## Github
 
-github地址：[https://github.com/QZPCFX/lets-start.git](https://github.com/QZPCFX/lets-start.git)
+github地址：[https://github.com/QZPCFX/lets-start.gi](https://github.com/QZPCFX/lets-start.gi)
 
-## Timeline 
+**语雀知识库**
+
+语雀知识库地址：[https://www.yuque.com/docs/share/f4d5e076-2f41-4931-85eb-d9dba5487ff8?#](https://www.yuque.com/docs/share/f4d5e076-2f41-4931-85eb-d9dba5487ff8?#) 《Preface》
+## Timeline
 
 :::info
 上课期间的代码任务需要及时完成并更新此文档中的仓库链接
@@ -58,4 +62,6 @@ github地址：[https://github.com/QZPCFX/lets-start.git](https://github.com/QZP
 | 38 | pwa |  |  |
 | 39 | react native |  |  |
 | 40 | electron |  |  |
+
+
 
